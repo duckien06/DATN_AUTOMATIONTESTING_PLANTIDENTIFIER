@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyCharm
+.idea/
+
+# Test report
+report.html
+
+# Env
+.env
