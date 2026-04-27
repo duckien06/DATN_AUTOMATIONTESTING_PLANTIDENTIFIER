@@ -1,0 +1,37 @@
+[
+  {
+    "test_id": "TC_FISH_01",
+    "image_name": "fish_test.jpg",
+    "remote_path": "/sdcard/Pictures/fish_test.jpg",
+    "scanner_type": "fish",
+    "expected_screen": "Fish"
+  },
+  {
+    "test_id": "TC_FISH_02",
+    "image_name": "fish1_test.jpg",
+    "remote_path": "/sdcard/Pictures/fish1_test.jpg",
+    "scanner_type": "fish",
+    "expected_screen": "Fish"
+  },
+  {
+    "test_id": "TC_FISH_03",
+    "image_name": "fish2_test.jpg",
+    "remote_path": "/sdcard/Pictures/fish2_test.jpg",
+    "scanner_type": "fish",
+    "expected_screen": "Fish"
+  },
+  {
+    "test_id": "TC_FISH_04",
+    "image_name": "fish3_test.jpg",
+    "remote_path": "/sdcard/Pictures/fish3_test.jpg",
+    "scanner_type": "fish",
+    "expected_screen": "Fish"
+  },
+  {
+    "test_id": "TC_FISH_05",
+    "image_name": "fish4_test.jpg",
+    "remote_path": "/sdcard/Pictures/fish4_test.jpg",
+    "scanner_type": "fish",
+    "expected_screen": "Fish"
+  }
+]

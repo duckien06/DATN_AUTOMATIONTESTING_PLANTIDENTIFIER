@@ -1,0 +1,37 @@
+[
+  {
+    "test_id": "TC_MUSHROOM_01",
+    "image_name": "mushroom_test.jpg",
+    "remote_path": "/sdcard/Pictures/mushroom_test.jpg",
+    "scanner_type": "mushroom",
+    "expected_screen": "Mushroom"
+  },
+  {
+    "test_id": "TC_MUSHROOM_02",
+    "image_name": "mushroom1_test.jpg",
+    "remote_path": "/sdcard/Pictures/mushroom1_test.jpg",
+    "scanner_type": "mushroom",
+    "expected_screen": "Mushroom"
+  },
+  {
+    "test_id": "TC_MUSHROOM_03",
+    "image_name": "mushroom2_test.jpg",
+    "remote_path": "/sdcard/Pictures/mushroom2_test.jpg",
+    "scanner_type": "mushroom",
+    "expected_screen": "Mushroom"
+  },
+  {
+    "test_id": "TC_MUSHROOM_04",
+    "image_name": "mushroom3_test.jpg",
+    "remote_path": "/sdcard/Pictures/mushroom3_test.jpg",
+    "scanner_type": "mushroom",
+    "expected_screen": "Mushroom"
+  },
+  {
+    "test_id": "TC_MUSHROOM_05",
+    "image_name": "mushroom4_test.jpg",
+    "remote_path": "/sdcard/Pictures/mushroom4_test.jpg",
+    "scanner_type": "mushroom",
+    "expected_screen": "Mushroom"
+  }
+]

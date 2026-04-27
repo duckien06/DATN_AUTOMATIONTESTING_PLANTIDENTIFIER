@@ -1,0 +1,37 @@
+[
+  {
+    "test_id": "TC_INSECT_01",
+    "image_name": "insect_test.jpg",
+    "remote_path": "/sdcard/Pictures/insect_test.jpg",
+    "scanner_type": "insect",
+    "expected_screen": "Insect"
+  },
+  {
+    "test_id": "TC_INSECT_02",
+    "image_name": "insect1_test.jpg",
+    "remote_path": "/sdcard/Pictures/insect1_test.jpg",
+    "scanner_type": "insect",
+    "expected_screen": "Insect"
+  },
+  {
+    "test_id": "TC_INSECT_03",
+    "image_name": "insect2_test.jpg",
+    "remote_path": "/sdcard/Pictures/insect2_test.jpg",
+    "scanner_type": "insect",
+    "expected_screen": "Insect"
+  },
+  {
+    "test_id": "TC_INSECT_04",
+    "image_name": "insect3_test.jpg",
+    "remote_path": "/sdcard/Pictures/insect3_test.jpg",
+    "scanner_type": "insect",
+    "expected_screen": "Insect"
+  },
+  {
+    "test_id": "TC_INSECT_05",
+    "image_name": "insect4_test.jpg",
+    "remote_path": "/sdcard/Pictures/insect4_test.jpg",
+    "scanner_type": "insect",
+    "expected_screen": "Insect"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "test_id": "TC_PLANT_01_SNAKE_PLANT",
+    "image_name": "snake_plant_test.jpg",
+    "remote_path": "/sdcard/Pictures/snake_plant_test.jpg",
+    "scanner_type": "plant",
+    "expected_screen": "Plant Overview",
+    "expected_name": "Snake Plant"
+  },
+  {
+    "test_id": "TC_PLANT_02_SENSITIVE_PLANT",
+    "image_name": "sensitive_plant_test.jpg",
+    "remote_path": "/sdcard/Pictures/sensitive_plant_test.jpg",
+    "scanner_type": "plant",
+    "expected_screen": "Plant Overview",
+    "expected_name": "Sensitive Plant"
+  },
+  {
+    "test_id": "TC_PLANT_03_SUNFLOWER_PLANT",
+    "image_name": "sunflower_plant_test.jpg",
+    "remote_path": "/sdcard/Pictures/sunflower_plant_test.jpg",
+    "scanner_type": "plant",
+    "expected_screen": "Plant Overview",
+    "expected_name": "Sunflower Plant"
+  },
+  {
+    "test_id": "TC_PLANT_04_BAMBOO_PLANT",
+    "image_name": "bamboo_plant_test.jpg",
+    "remote_path": "/sdcard/Pictures/bamboo_plant_test.jpg",
+    "scanner_type": "plant",
+    "expected_screen": "Plant Overview",
+    "expected_name": "Bamboo Plant"
+  },
+  {
+    "test_id": "TC_PLANT_05_WATERLILY_PLANT",
+    "image_name": "waterlily_plant_test.jpg",
+    "remote_path": "/sdcard/Pictures/waterlily_plant_test.jpg",
+    "scanner_type": "plant",
+    "expected_screen": "Plant Overview",
+    "expected_name": "Waterlily Plant"
+  }
+]
