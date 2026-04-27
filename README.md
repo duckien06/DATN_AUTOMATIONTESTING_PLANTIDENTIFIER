@@ -14,7 +14,7 @@ Dự án automation này được xây dựng theo mô hình **Page Object Model
 * **Automation Tool:** Appium (Mobile Automation)
 * **Kiến trúc:** Page Object Model (POM)
 * **Báo cáo:** `pytest-html`
-* **Môi trường:** Android 16 (Thiết bị thực tế: Samsung S23+)
+* **Môi trường:** Android 16
 
 ## 🚀 Hướng dẫn cài đặt
 
